@@ -1,2 +1,2 @@
-# Test2
-Test2
+# Introduction
+This is the result of my Udacity Business Analytics Course
